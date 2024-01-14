@@ -1,7 +1,7 @@
 # Networking concepts in GO
 
-- [ ] TCP
-- [ ] UDP
-- [ ] HTTP
+- [x] TCP
+- [x] UDP
+- [x] HTTP
 - [ ] RPC
 - [ ] Websocket
