@@ -8,3 +8,6 @@ run: build
 
 clean:
 	@rm -rf ./bin
+
+test:
+	@go test -v ./protocols/$(ARG)
