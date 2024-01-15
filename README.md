@@ -3,5 +3,5 @@
 - [x] TCP
 - [x] UDP
 - [x] HTTP
-- [ ] RPC
+- [x] RPC
 - [ ] Websocket
